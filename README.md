@@ -4,3 +4,6 @@
 pip install scipy
 pip install numpy
 pip install matplotlib
+
+# Ejecución
+py estadistica.py
